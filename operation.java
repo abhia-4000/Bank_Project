@@ -5,9 +5,6 @@ import java.util.Scanner;
 public class operation {
 
 	int bal = 0;
-	static String y, n;
-	static int ch, accNo, accId;
-	String accHname = "";
 
 	Account ac = new Account();
 	Scanner sc = new Scanner(System.in);
